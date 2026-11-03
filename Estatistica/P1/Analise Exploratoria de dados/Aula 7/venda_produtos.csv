@@ -1,0 +1,11 @@
+produto,categoria,preco,quantidade_vendida,mes 
+Notebook,Eletrônicos,2500,15,Janeiro 
+Mouse,Eletrônicos,80,45,Janeiro 
+Cadeira,Móveis,350,12,Janeiro 
+Mesa,Móveis,450,8,Janeiro 
+Monitor,Eletrônicos,1200,20,Fevereiro 
+Teclado,Eletrônicos,150,38,Fevereiro 
+Estante,Móveis,280,10,Fevereiro 
+Notebook,Eletrônicos,2500,18,Março 
+Mouse,Eletrônicos,80,52,Março 
+Cadeira,Móveis,350,15,Março 

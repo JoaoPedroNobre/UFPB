@@ -1,0 +1,11 @@
+id,idade,sexo,curso,satisfacao,indicaria 
+1,22,F,Estatística,Muito satisfeito,Sim 
+2,19,M,Matemática,Satisfeito,Sim 
+3,35,F,Computação,Neutro,Talvez 
+4,20,M,Estatística,Insatisfeito,Não 
+5,24,F,Computação,Muito satisfeito,Sim 
+6,18,M,Matemática,Satisfeito,Sim 
+7,28,F,Estatística,Neutro,Talvez 
+8,21,M,Computação,Insatisfeito,Não 
+9,23,F,Matemática,Muito satisfeito,Sim 
+10,19,M,Estatística,Satisfeito,Sim 
